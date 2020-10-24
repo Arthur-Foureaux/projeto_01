@@ -1,2 +1,2 @@
 # projeto_01
- primeiro repositorio local
+Prototipo landing page
